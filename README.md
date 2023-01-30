@@ -70,7 +70,7 @@ Plate compatibility:
 
    Jane V2 (top mount). Some versions may support Alps, but usually this plate support MX switches only.
    
-   Ecliptica plate (top mount variation designedbydark), which is also released here, but on a non-commercial license. MX switches only.
+   Ecliptica plate (top mount variation designedbydark), which is included in the first release, but on a non-commercial license. MX switches only.
 
 ***
 
