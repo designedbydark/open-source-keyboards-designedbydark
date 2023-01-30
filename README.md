@@ -26,9 +26,15 @@ CCRX
 
 A keyboard designed as a homage to the original custom keyboards, specifically the Korean OTD keyboards machined from metal; like those designed by Eungsam where the typing angle emerged from the keyboard case and not the keyboard feet.
 
-If you take these files to a manufacturer they should be able to CNC a keyboard made from aluminum, brass, copper, steel, PC etc.
+If you take these files to a manufacturer they should be able to make it for you on a much shorter timeline than you could expect when joining a groupbuy.
+
+Typically the top and bottom cases will be CNCed from aluminium (6063, 7XXX, 6061, 5052 etc), sandblasted and anodised.
+
+Typically the weight would be CNCed from a material that adds weight to the assembly versus the top/bottom case materials; steel, copper or brass are the most common choices.
 
 You should be able to open these .step files using CAD software like Fusion360 or similar to inspect, personalise and change them. 
+
+In future releases I may attach a guide to help you add engravings of your own.
 
 I have linked a few images for those who won't do this.
 
