@@ -38,7 +38,7 @@ You should be able to open these .step files using CAD software like Fusion360 o
 
 In future releases I may attach a guide to help you add engravings of your own.
 
-I have linked a few images for those who won't do this.
+I have linked a few images of the keyboard so it can be previewed without opening the files.
 
 ***
 
