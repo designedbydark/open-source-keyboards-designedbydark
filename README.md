@@ -2,9 +2,9 @@ README
 
 Open sourced and non-commerically released keyboards designedbydark.
 
-   My username on twitch was 'darkheavenlight', a quote from Romeo and Juliet. 
+   When Blacksimon started streaming, my username on twitch was 'darkheavenlight', a quote from Romeo and Juliet. 
 
-   People in the community shortened it to 'Dark' and that's how I ended up with that name.
+   People in that community shortened it to 'Dark' and that's how I ended up with the name.
 
 ***
 
@@ -106,7 +106,7 @@ You will probably need to clip the switches into the plate/stabilisers into the 
 
 There are guides on the internet if you are unsure of what that means or how you would go about doing that.
 
-If you haven't built a custom keyboard before, I strongly recommend finding one and following it.
+If you haven't built a custom keyboard before, I strongly recommend finding a guide/doing research and following it.
 
 ***
 
