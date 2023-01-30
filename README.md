@@ -24,9 +24,13 @@ CCRX
 
 'Classic Corsa Redux' (V2):
 
-A keyboard designed as a homage to the original custom keyboards, specifically the Korean OTD keyboards machined from metal; like those designed by eungsam where the typing angle emerged from the keyboard case and not the keyboard feet.
+A keyboard designed as a homage to the original custom keyboards, specifically the Korean OTD keyboards machined from metal; like those designed by Eungsam where the typing angle emerged from the keyboard case and not the keyboard feet.
 
 If you take these files to a manufacturer they should be able to CNC a keyboard made from aluminum, brass, copper, steel, PC etc.
+
+You should be able to open these .step files using CAD software like Fusion360 or similar to inspect, personalise and change them. 
+
+I have linked a few images for those who won't do this.
 
 ***
 
