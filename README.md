@@ -4,7 +4,7 @@ Open sourced and non-commerically released keyboards designedbydark.
 
 I intend to continue to release projects for the community, but this is the first release.
 
-   When Blacksimon started streaming, my username on twitch was 'darkheavenlight', a quote from Romeo and Juliet. 
+   When Blacksimon started streaming, my username on twitch was 'darkheavenlight', quoted from Romeo and Juliet. 
 
    People in that community shortened it to 'Dark' and that's how I became known by that name.
 
