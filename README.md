@@ -32,7 +32,7 @@ If you take these files to a manufacturer they should be able to make it for you
 
 Typically the top and bottom cases will be CNCed from aluminium (6063, 7XXX, 6061, 5052 etc), sandblasted and anodised.
 
-Typically the weight would be CNCed from a material that adds weight to the assembly versus the top/bottom case materials; steel, copper or brass are the most common choices.
+Typically the 'weight' piece would be CNCed from a material that adds weight to the assembly versus the top/bottom case materials; steel, copper or brass are the most common choices.
 
 You should be able to open these .step files using CAD software like Fusion360 or similar to inspect, personalise and change them. 
 
