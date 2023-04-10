@@ -7,6 +7,30 @@ I intend to continue to release projects for the community, but this is the firs
    When Blacksimon started streaming, my username on twitch was 'darkheavenlight', quoted from Romeo and Juliet. 
 
    Simon shortened it to 'Dark' and that's how I became known by that name.
+   
+***
+
+SECOND RELEASE: 
+[Open Sourced Sixty (OSS)]
+Released under the Apache License, Version 2.0: 
+http://www.apache.org/licenses/LICENSE-2.0
+
+***
+An open sourced sixty-percent layout keyboard, with a 'seamless wedge' styled side profile.
+A basic keyboard with a few aesthetic refinements. 
+
+I have taken care in the spacing and position of the screws, along with the proportions of curves and edges so that it is a level above that which you could expect from a keyboard sold at GB in the same style. 
+
+The keyboard uses M3 sized hex screws for case fastening, and uses M2.5 button head screws for plate fastening if top-mounted. The plate was adapted from the original Visas design, but is no longer compatible with pure bumpon mounting.  
+
+It is also compatible with o-ring mounting although that has yet to be tested. You will need to buy your own o-ring to use this mounting method. Unless you buy additional bumpons and an o-ring, then top mount is the default mounting method.   
+
+The keyboard would also require you to buy your own SJ5302 M3 bumpons for the feet of the board, which also double as the required isolation on the top of the plate when using the o-ring mount.  
+
+Compatible with the H60 PCB by hineybush and the Raphael 60% PCB by Gondolindrim.   
+
+Typing angle is approx 5.9 degrees, the adjusted front height around 17.15mm.    
+
 
 ***
 
