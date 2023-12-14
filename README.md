@@ -2,7 +2,8 @@ README
 
 Open sourced and non-commerically released keyboards designedbydark.
 
-I intend to continue to release projects for the community, but this is the first release.
+I intend to continue to release projects for the community, unless otherwise stated, the files are Released under the Apache License, Version 2.0: 
+http://www.apache.org/licenses/LICENSE-2.0
 
    When Blacksimon started streaming, my username on twitch was 'darkheavenlight', quoted from Romeo and Juliet. 
 
