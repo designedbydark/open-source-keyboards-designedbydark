@@ -20,7 +20,7 @@ PART 1:
 
 .On the bottom left and right corner of the 'bottom case' added a small amount of material to increase the minimum thickness around the screws to 1mm. I apologise for this oversight and the time taken to correct it, I was burnt out and busy with other life events.
 
-The keyboard should now be functional, but still has yet to be prototyped by myself for testing.
+The keyboard should now be functional without alteration, but still has yet to be prototyped by myself for testing.
 
 ***
 THIRD RELEASE:
