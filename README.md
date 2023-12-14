@@ -28,6 +28,8 @@ PART 2: [Open Source Idol, aka Ex: Idol (F12 TKL)]
 
 .Top mounted version of Ex Idol with both WK (Winkey) and WKL (Winkeyless) variants of the top-case included.
 
+.Compatible with the WT-80 Wilba PCB, along with the Ecliptica PCB by Gondolindrim.
+
 .An altered version of the 'ecliptica' top mount plate included, styled for this keyboard with hearts and other decoration. Keyboard is top-mounted only.
 
 .Internally screwed using the standard 'screwless' implementation - NOT BAION BOLT at this time. Something similar may come later, TBC.
