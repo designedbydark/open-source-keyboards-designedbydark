@@ -24,9 +24,7 @@ The keyboard should now be functional, but still has yet to be prototyped by mys
 
 ***
 THIRD RELEASE:
-PART 2:
-
-[Open Source Idol, aka Ex: Idol (F12 TKL)]
+PART 2: [Open Source Idol, aka Ex: Idol (F12 TKL)]
 
 .Top mounted version of Ex Idol with both WK (Winkey) and WKL (Winkeyless) variants of the top-case included.
 
