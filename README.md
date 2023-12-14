@@ -10,6 +10,27 @@ http://www.apache.org/licenses/LICENSE-2.0
    Simon shortened it to 'Dark' and that's how I became known by that name.
    
 ***
+THIRD RELEASE:
+[Open Source Sixty (OSS) V2]
+.USB port redone to fix any slight alignment issues
+.Increased gap underneath screws for top-mounted configuration, by lowering a portion of the bottom case
+.On the bottom left and right corner of the 'bottom case' added a small amount of material to increase the minimum thickness around the screws to 1mm. I apologise for this oversight and the time taken to correct it, I was burnt out and busy with other life events.
+
+The keyboard should now be functional, but still has yet to be prototyped by myself for testing.
+
+[Open Source Idol, aka Ex: Idol (F12 TKL)]
+.Top mounted version of Ex Idol with both WK (Winkey) and WKL (Winkeyless) variants of the top-case included.
+.An altered version of the 'ecliptica' top mount plate included, styled for this keyboard with hearts and other decoration. Keyboard is top-mounted only.
+.Internally screwed using the standard 'screwless' implementation - NOT BAION BOLT at this time. Something similar may come later, TBC.
+.9 degree typing angle
+.No external engravings included
+.Large through weight
+.Chinese text indicating for the manufacturer to put their maker's mark/ name there to indicate who made the keyboard, along with 'designedbydark' and 'idol'. No other text within the keyboard proper, is included.
+.M2.5 size, 6mm screws should be used for top mount/plate fastening as usual. M4 countersunk screws should be used for the weight, like maybe 3mm or 4mm length or longer, whatever the manu wants to do. Then the case screws should be 6mm length M2 screws, but taking M1.3 sized screwdrivers, if that makes sense. M1.3 sized driver, M2 screw. That confused me for a while when i was getting replacement screws, doh.
+
+
+   
+***
 
 SECOND RELEASE: 
 [Open Sourced Sixty (OSS)]
