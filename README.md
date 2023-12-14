@@ -11,6 +11,7 @@ http://www.apache.org/licenses/LICENSE-2.0
    
 ***
 THIRD RELEASE:
+PART 1:
 [Open Source Sixty (OSS) V2]
 
 .USB port redone to fix any slight alignment issues
@@ -21,6 +22,9 @@ THIRD RELEASE:
 
 The keyboard should now be functional, but still has yet to be prototyped by myself for testing.
 
+***
+THIRD RELEASE:
+PART 2:
 
 [Open Source Idol, aka Ex: Idol (F12 TKL)]
 
